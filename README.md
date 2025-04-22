@@ -1,4 +1,6 @@
-## Hi there 👋
+<center>
+Texto centralizado
+</center>
 
 <!--
 **emilyqdrosa/emilyqdrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
