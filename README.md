@@ -1,14 +1,10 @@
-<h1 align="left">Olá! Bem vindo(a) ao meu GitHub!</h1>
+<h1 align="center">Olá, Seja bem vindo(a) ao meu GitHub! =</h1>
+<hr>
+<p align="center"><i>Estudante de Análise e Desenvolvimento de Sistemas</i> - IFRS</p>
 
 ###
 
-<p align="left">Meu nome é Emily e eu sou Dev Front-end 👋</p>
-  
-<!--<a href=""><strong>Portfólio</strong></a>-->
-
-###
-
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
@@ -55,5 +51,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emilyqdrosa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+<hr>
 
+<div align="left">
+<!--<a href="link do portfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=0F9D58&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" /></a>-->
+  <a href="mailto:emilyqdrosa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
+  <a href="www.linkedin.com/in/emily-quevedo" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
+</div>
