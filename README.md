@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">Meu nome é Emily e eu sou Dev Front-end</p>
+<p align="left">Meu nome é Emily e eu sou Dev Front-end 👋p>
+  
+<!--<a href=""><strong>Portfólio</strong></a>-->
 
 ###
 
