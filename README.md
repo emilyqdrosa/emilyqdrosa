@@ -47,9 +47,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />-->
 </div>
 
-<div align="center">
+###
+
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emilyqdrosa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
-###
+
