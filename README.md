@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">📚 Atualmente me aprofundando nos estudos de Front-end e design UI. Além disso, começando a codar Python e Java! <br>🎯 Goals: Dev Full Stack</p>
+<p align="left">📚 Atualmente me aprofundando nos estudos de Front-end e design UI. Além disso, começando a codar Python e Java! <br>🎯 Meta: Dev Full Stack</p>
 
 ###
 
