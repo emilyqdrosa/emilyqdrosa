@@ -1,5 +1,5 @@
 <center>
-## Bem vindo(a) ao meu GitHub!
+ <h2>Bem vindo(a) ao meu GitHub!</h2>
 </center>
 
 <!--
