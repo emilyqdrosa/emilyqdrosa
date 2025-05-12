@@ -1,5 +1,4 @@
 <h1 align="center">Olá, Seja bem vindo(a) ao meu GitHub! </h1>
-<p align="center"><i>Estudante de Análise e Desenvolvimento de Sistemas</i> - IFRS</p>
 
 ###
 
@@ -7,7 +6,13 @@
 
 ###
 
-<p align="left">📚 Atualmente me aprofundando nos estudos de Front-end e design UI. Além disso, começando a codar Python e Java! <br>🎯 Meta: Dev Full Stack</p>
+<p align="left">Atualmente me aprofundando nos estudos de Front-end e design UI. Além disso, começando a codar Python e Java! <br>🎯 Meta: Dev Full Stack</p>
+
+<ul align="left">
+  <li>🎓 Técnica em Informática para Internet - QI</li>
+  <li>💻 Estudante de Análise e Desenvolvimento de Sistemas</i> - IFRS</li>
+  <li>👩‍💻 <strong>Dev Front-End</strong></li>
+</ul>
 
 ###
 
