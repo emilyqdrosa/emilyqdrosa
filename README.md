@@ -6,11 +6,14 @@
 
 ###
 
-<p align="left">Atualmente me aprofundando nos estudos de Front-end e design UI. Além disso, começando a codar Python e Java! <br>🎯 Meta: Dev Full Stack</p>
+<p align="left">
+  Atualmente me aprofundando nos estudos de programação em Java e Front-end. 
+  <br>🎯 Meta: Dev Full Stack
+</p>
 
 <ul align="left">
-  <li>🎓 Técnica em Informática para Internet - QI</li>
   <li>💻 Estudante de Análise e Desenvolvimento de Sistemas</i> - IFRS</li>
+  <li>🎓 Técnica em Informática para Internet - QI</li>
   <li>👩‍💻 <strong>Dev Front-End</strong></li>
 </ul>
 
@@ -33,12 +36,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
   <img width="12" />
   
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />-->
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />-->
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
