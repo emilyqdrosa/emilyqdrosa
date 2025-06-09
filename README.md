@@ -14,7 +14,7 @@
 <ul align="left">
   <li>💻 Estudante de Análise e Desenvolvimento de Sistemas</i> - IFRS</li>
   <li>🎓 Técnica em Informática para Internet - QI</li>
-  <li>👩‍💻 <strong>Dev Front-End</strong></li>
+  <li>💙 Programação JAVA - Geração Caldeira 2025</li>
 </ul>
 
 ###
