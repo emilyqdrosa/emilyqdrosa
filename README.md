@@ -7,14 +7,14 @@
 ###
 
 <p align="left">
-  Atualmente me aprofundando nos estudos de programação em Java e Front-end. 
+  Me chamo Emily e atualmente estou me aprofundando nos estudos de programação em Java e Front-end. 
   <br>🎯 Meta: Dev Full Stack
 </p>
 
 <ul align="left">
   <li>💻 Estudante de Análise e Desenvolvimento de Sistemas</i> - IFRS</li>
   <li>🎓 Técnica em Informática para Internet - QI</li>
-  <li>💙 Programação JAVA - Geração Caldeira 2025</li>
+  <li>💙 Programação Java - Geração Caldeira 2025</li>
 </ul>
 
 ###
