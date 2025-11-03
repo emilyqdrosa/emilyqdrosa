@@ -57,7 +57,10 @@
 
 ###
 
-<div align="left">
+<div align="left
+  <p align="center">
+    <img align="center" src="https://komarev.com/ghpvc/?username=MatheusFachel&label=PROFILE+VISITS&color=9943df&style=for-the-badge" alt="Profile visits" />
+  </p> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emilyqdrosa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
