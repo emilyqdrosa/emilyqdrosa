@@ -1,13 +1,10 @@
-<h1 align="center">Olá, bem vindo ao meu GitHub! </h1>
-
-<p align="left">
-  Desenvolvedora com foco em Backend.
-</p>
+<h1 align="left">Olá, meu nome é Emily! 👋🏻</h1>
 
 <ul align="left">
-  <li>🎓 Estudante de Análise e Desenvolvimento de Sistemas</i> - IFRS</li>
-  <li>💻 Técnica em Informática para Internet - QI</li>
-  <li>☕ Programação Java - Geração Caldeira 2025</li>
+  <li> Desenvolvedora com foco em Backend.
+  <li> Estudante de Análise e Desenvolvimento de Sistemas</i> - IFRS</li>
+  <li> Técnica em Informática para Internet - QI</li>
+  <li> Programação Java - Geração Caldeira 2025</li>
 </ul>
 
 ###
@@ -38,11 +35,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
   </div>
 
-  <br/>
 
+<!--
   <div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emilyqdrosa&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2" height="160" alt="languages graph" />
-  </div>
+  </div>-->
 
   
   <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -59,9 +56,10 @@
 
 ###
 
+<!--
 <div align="left"
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emilyqdrosa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+</div:-->
 
 <hr>
 
