@@ -1,20 +1,13 @@
-<h1 align="center">Olá, Seja bem vindo(a) ao meu GitHub! </h1>
-
-###
-
-<h2 align="left">Sobre mim</h2>
-
-###
+<h1 align="center">Olá, bem vindo ao meu GitHub! </h1>
 
 <p align="left">
-  Me chamo Emily e atualmente estou me aprofundando nos estudos de programação em Java e Front-end. 
-  <br>🎯 Meta: Dev Full Stack
+  Desenvolvedora com foco em Backend.
 </p>
 
 <ul align="left">
-  <li>💻 Estudante de Análise e Desenvolvimento de Sistemas</i> - IFRS</li>
-  <li>🎓 Técnica em Informática para Internet - QI</li>
-  <li>💙 Programação Java - Geração Caldeira 2025</li>
+  <li>🎓 Estudante de Análise e Desenvolvimento de Sistemas</i> - IFRS</li>
+  <li>💻 Técnica em Informática para Internet - QI</li>
+  <li>☕ Programação Java - Geração Caldeira 2025</li>
 </ul>
 
 ###
