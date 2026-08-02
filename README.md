@@ -1,7 +1,6 @@
 # Olá, meu nome é Emily! 👋🏻
 
-[LinkedIn](www.linkedin.com/in/emily-quevedo)  · [emilyqdrosa@gmail.com](mailto:emilyqdrosa@gmail.com)  
-<!-- - [Portfolio](https://emilyqdrosa.github.io/) · -->
+Acesse o meu [Portfolio](https://emilyqdrosa.github.io/)!
 
 Desenvolvedora **Backend** e estudante de **Análise e Desenvolvimento de Sistemas no IFRS**.
 
@@ -15,3 +14,7 @@ Sou apaixonada por entender desde a arquitetura de sistemas operacionais até a 
 ## 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=java,spring,c,python,php,javascript,html,css,react,flutter,postgres,mysql,git,figma" />
+
+## Contato
+
+[Portfolio](https://emilyqdrosa.github.io/) · [LinkedIn](www.linkedin.com/in/emily-quevedo) · [emilyqdrosa@gmail.com](mailto:emilyqdrosa@gmail.com) 
