@@ -17,4 +17,4 @@ Sou apaixonada por entender desde a arquitetura de sistemas operacionais até a 
 
 ## Contato
 
-[Portfolio](https://emilyqdrosa.github.io/) · [LinkedIn](www.linkedin.com/in/emily-quevedo) · [emilyqdrosa@gmail.com](mailto:emilyqdrosa@gmail.com) 
+[Portfolio](https://emilyqdrosa.github.io/) · [LinkedIn](https://www.linkedin.com/in/emily-quevedo) · [emilyqdrosa@gmail.com](mailto:emilyqdrosa@gmail.com) 
